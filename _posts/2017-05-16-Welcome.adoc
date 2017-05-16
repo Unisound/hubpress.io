@@ -7,6 +7,5 @@
 = Welcome
 
 :hp-tags: Unisound, Blog, Open_Source,
-:hp-image: /covers/cover.png
 
 Welcome to the Unisound!
