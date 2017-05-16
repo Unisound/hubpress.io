@@ -5,12 +5,12 @@
     "branch": "master"
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   },
   "urls": {
     "site": "https://Unisound.github.io",
     "hubpress": "https://unisound.github.io",
-    "theme": "//Unisound.github.io/themes/casper",
+    "theme": "//Unisound.github.io/themes/ghostium",
     "images": "https://Unisound.github.io/images"
   },
   "initialisationConfigComponent": {
